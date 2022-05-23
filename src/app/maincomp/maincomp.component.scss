@@ -1,0 +1,44 @@
+.wapper-main{
+    width: 80%;
+    padding-left: 10%;
+    background-color: #222;
+}
+.content-header{
+    padding-bottom: 70px;
+   
+}
+
+.sub-topic-container{
+    background-color: #333;
+    padding: 20px;
+    box-shadow: 0px 30px 30px rgb(0 0 0 / 10%);
+    min-height: 165px;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.tredning{
+    color: #e40084 !important;
+    font-weight: bold;
+}
+
+.topic{
+    color: #fff;
+    letter-spacing: 8px;
+}
+
+.tredning-subtopic{
+    color: #e40084 !important;
+   
+}
+.tredning-subtopic-name{
+    color: #fff !important;
+    letter-spacing: 4px;
+}
+.tredning-subtopic-count{
+    color: #fff !important;
+}
+.path-icon {
+    width: 100px;
+}

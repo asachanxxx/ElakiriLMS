@@ -2,13 +2,20 @@
 i.fa{
     width: 24px;
     font-size: 24px;
-    color: #030303;
+    color: #ffffff;
 }
 .nav-icon{
     margin-right: 10px;
     width: 24px;
-    // align-items: center;
-}
+}    
 .nav-item{
     margin: 4px 0;
+}
+
+li:hover{
+    background-color: rgba(0, 0, 0, 0.4)!important;
+}
+
+nav#sidebarMenu {
+    background-color: rgba(0, 0, 0, 0.8)!important;
 }

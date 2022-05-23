@@ -1,0 +1,98 @@
+[
+    {
+        "id": "Topic-1",
+        "m_top_level": false,
+        "m_name": "LMS Dashboard",
+        "m_display_t": "LMS Dashboard",
+        "m_icon": "fa fa-tachometer fa-2x",
+        "active": true
+    },
+    {
+        "id": "2",
+        "m_top_level": true,
+        "m_name": "Paths",
+        "m_display_t": "Paths",
+        "m_icon": "",
+        "active": false
+    },
+    {
+        "id": "Topic-2-1",
+        "m_top_level": false,
+        "m_name": "Zero to hero",
+        "m_display_t": "Zero to hero",
+        "m_icon": "fa fa-sort-alpha-asc fa-2x",
+        "active": false
+    },
+    {
+        "id": "Topic-2-2",
+        "m_top_level": false,
+        "m_name": "Absolute beginners",
+        "m_display_t": "Absolute beginners",
+        "m_icon": "fa fa-random fa-2x",
+        "active": false
+    },
+    {
+        "id": "Topic-2-3",
+        "m_top_level": false,
+        "m_name": "Raise from beginning",
+        "m_display_t": "Raise from beginning",
+        "m_icon": "fa fa-podcast fa-2x",
+        "active": false
+    },
+    {
+        "id": "Topic-2-4",
+        "m_top_level": false,
+        "m_name": "Undergraduates",
+        "m_display_t": "Undergraduates",
+        "m_icon": "fa fa-university fa-2x",
+        "active": false
+    },
+    {
+        "id": "Topic-2-5",
+        "m_top_level": false,
+        "m_name": " Expert to unstoppable",
+        "m_display_t": " Expert to unstoppable",
+        "m_icon": "fa fa-trophy fa-2x",
+        "active": false
+    },
+    {
+        "id": "8",
+        "m_top_level": true,
+        "m_name": "Technology and languages",
+        "m_display_t": "Technology and languages",
+        "m_icon": "",
+        "active": false
+    },
+    {
+        "id": "Topic-3-1",
+        "m_top_level": false,
+        "m_name": "Laguages",
+        "m_display_t": "Laguages",
+        "m_icon": "fa fa-language fa-2x",
+        "active": false
+    },
+    {
+        "id": "Topic-3-2",
+        "m_top_level": false,
+        "m_name": "Technologies",
+        "m_display_t": "Technologies",
+        "m_icon": "fa fa-building-o fa-2x",
+        "active": false
+    },
+    {
+        "id": "Topic-3-3",
+        "m_top_level": false,
+        "m_name": "Architectures",
+        "m_display_t": "Architectures",
+        "m_icon": "fa fa-microchip fa-2x",
+        "active": false
+    },
+    {
+        "id": "Topic-3-4",
+        "m_top_level": false,
+        "m_name": "Complete solutions",
+        "m_display_t": "Complete solutions",
+        "m_icon": "fa fa-industry fa-2x",
+        "active": false
+    }
+]
